@@ -38,7 +38,6 @@ def start_game():
             else:
                 print("Энд өөр зам байхгүй. Урагшаа явж шат руу оч.")
 
-        # --- FLOOR 5: SEARCH FOR GUN ---
         elif current_floor == 5:
             if move == "хайх":
                 print("Та нэгэн шүүгээн дотроос БУУ оллоо! Одоо та аюулгүй байж магадгүй.")
