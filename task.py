@@ -1,10 +1,10 @@
 # 1. 2 тооны нийлбэр
 def check_addition(a, b):
-    pass
+    return a + b
 
 # 2. 2 тооны ялгавар 
 def check_subtraction(a, b):
-    pass
+    return a - b
 
 # 3. 2 тооны үржвэр  
 def check_multiplication(a, b):
